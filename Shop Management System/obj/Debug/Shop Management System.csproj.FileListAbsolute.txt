@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe.config
+C:\Users\User\source\repos\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe
+C:\Users\User\source\repos\Shop Management System\Shop Management System\bin\Debug\Shop Management System.pdb
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Billing.resources
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Categories.resources
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Customers.resources
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Items.resources
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Login.resources
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Properties.Resources.resources
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop Management System.exe
+C:\Users\User\source\repos\Shop Management System\Shop Management System\obj\Debug\Shop Management System.pdb
+C:\Users\User\source\repos\Shop Management System\Shop Management System\bin\Debug\HardwareDb.mdf
+C:\Users\User\source\repos\Shop Management System\Shop Management System\bin\Debug\HardwareDb_log.ldf
